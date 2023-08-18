@@ -1,5 +1,3 @@
-# Hyperparameter-Tuning-with-Keras-Tuner
-Improve the classification model accuracy performance with Keras Hyperparamters tuner
 # Project Showcase: Optimized Classification Model using TensorFlow and Keras Tuner 🚀
 
 Hey there! 👋 Welcome to my project showcase where I'm excited to unveil the journey of optimizing a classification model using Python, TensorFlow, and the powerful Keras Tuner.
